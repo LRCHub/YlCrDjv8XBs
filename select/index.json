@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "チェキチェキ LOVE ME",
+  "base_artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）",
+  "createdAt": "2026-03-26T08:08:14.989286Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チェキチェキ LOVE ME",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": false,
+      "path": "select/pl_01_チェキチェキ_LOVE_ME_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).txt"
+    }
+  ]
+}
